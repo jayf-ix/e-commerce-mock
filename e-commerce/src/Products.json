@@ -1,0 +1,83 @@
+[
+    {
+      "imageUrl": "https://picsum.photos/600/400?random=1",
+      "title": "iPhone 13 Pro",
+      "price": "$999.99",
+      "sku": "100001",
+      "brand": "Apple",
+      "viewProductLink": "#"
+    },
+    {
+      "imageUrl": "https://picsum.photos/600/400?random=2",
+      "title": "iPhone SE (2023)",
+      "price": "$429.99",
+      "sku": "100002",
+      "brand": "Apple",
+      "viewProductLink": "#"
+    },
+    {
+      "imageUrl": "https://picsum.photos/600/400?random=3",
+      "title": "Galaxy S22 Ultra",
+      "price": "$1,199.99",
+      "sku": "200001",
+      "brand": "Samsung",
+      "viewProductLink": "#"
+    },
+    {
+      "imageUrl": "https://picsum.photos/600/400?random=4",
+      "title": "Galaxy A54",
+      "price": "$449.99",
+      "sku": "200002",
+      "brand": "Samsung",
+      "viewProductLink": "#"
+    },
+    {
+      "imageUrl": "https://picsum.photos/600/400?random=5",
+      "title": "Pixel 7",
+      "price": "$599.99",
+      "sku": "300001",
+      "brand": "Google",
+      "viewProductLink": "#"
+    },
+    {
+      "imageUrl": "https://picsum.photos/600/400?random=6",
+      "title": "Pixel 7 Pro",
+      "price": "$899.99",
+      "sku": "300002",
+      "brand": "Google",
+      "viewProductLink": "#"
+    },
+    {
+      "imageUrl": "https://picsum.photos/600/400?random=7",
+      "title": "OnePlus 11",
+      "price": "$699.99",
+      "sku": "400001",
+      "brand": "OnePlus",
+      "viewProductLink": "#"
+    },
+    {
+      "imageUrl": "https://picsum.photos/600/400?random=8",
+      "title": "OnePlus Nord 2",
+      "price": "$399.99",
+      "sku": "400002",
+      "brand": "OnePlus",
+      "viewProductLink": "#"
+    },
+    {
+      "imageUrl": "https://picsum.photos/600/400?random=9",
+      "title": "Redmi Note 12",
+      "price": "$299.99",
+      "sku": "500001",
+      "brand": "Xiaomi",
+      "viewProductLink": "#"
+    },
+    {
+      "imageUrl": "https://picsum.photos/600/400?random=10",
+      "title": "Mi 13 Ultra",
+      "price": "$899.99",
+      "sku": "500002",
+      "brand": "Xiaomi",
+      "viewProductLink": "#"
+    }
+  ]
+  
